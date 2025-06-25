@@ -33,7 +33,7 @@ Abra o Cypress em modo interativo:
 npm run cypress:open
 
 
-Ou rode todos os testes em modo terminal (headless):
+Rode todos os testes em modo terminal (headless):
 npm test
 
 ## 👨‍💻 Autor
